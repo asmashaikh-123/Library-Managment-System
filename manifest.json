@@ -1,0 +1,10 @@
+{
+  "name": "LibraryHub - Library Management System",
+  "short_name": "LibraryHub",
+  "description": "A modern library management system for librarians",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#f5f6fa",
+  "theme_color": "#6366f1"
+}
+
